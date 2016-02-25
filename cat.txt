@@ -1,1 +1,2 @@
-A cat says Meow!
+A cat says meow!
+And a dog says wooF.
